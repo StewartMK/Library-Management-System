@@ -1,0 +1,13 @@
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Library.mdf
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Library_log.ldf
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.xml
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.vbprojResolveAssemblyReference.cache
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Resources.resources
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.vbproj.GenerateResource.Cache
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.xml
+c:\users\never\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
